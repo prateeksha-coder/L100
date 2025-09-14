@@ -1,4 +1,4 @@
- import scipy.stats as stats
+import scipy.stats as stats
 
 # value of interest
 # change this
